@@ -14,3 +14,24 @@ All code examples will be listed within the examples.js file. Everything is pret
 ## Documentation
 
 All examples will be listed in https://github.com/AstralNetwork/rxl.js
+
+## Current functions 
+
+    getUserdataFromId,
+    getUserdataFromUsername,
+    getIdFromUsername,
+    getUsernameFromId,
+    getUsernameHistoryFromId,
+    UsernameKeywordSearch,
+    getUserStatusFromId,
+    getGroupInfoFromId,
+    getUsersInGroupFromId,
+    getUserGroupsFromId,
+    getGroupWallpost,
+    searchGroupbyKeyword,
+    getUserPrimaryRolesFromId,
+    getGameDetail,
+    getGameProductInfo,
+    getGroupGamebyGroupid,
+    getGroupThumbnail,
+    getUserAvatarHeadshotFromId
