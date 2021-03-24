@@ -15,7 +15,7 @@ All code examples will be listed within the examples.js file. Everything is pret
 
 All examples will be listed in https://github.com/AstralNetwork/rxl.js
 
-## Current functions 
+## Current functions [1.1.2]
 
     getUserdataFromId,
     getUserdataFromUsername,
