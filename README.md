@@ -1,4 +1,6 @@
+# Version
 
+*1.1.0 [11:59 AM SGT 24/3/2021]*
 ## rxl.js
 
 rxl.js is a simplified API Wrapper for Roblox made for beginners. I had the motivation to make this because of boredom(mostly) and I was hoping it could help out some people with their stuff. I am still maintaining this library and it is still under development since there's some little stuff I need to work on.
