@@ -9,11 +9,7 @@ Just run `npm i rxl.js` on your terminal and you're done!
 
 ## Examples
 
-All code examples will be listed within the examples.js file. Everything is pretty simple and easy to save you the hassle of thinking out of your mind while implementing it. 
-
-## Documentation
-
-All examples will be listed in https://github.com/AstralNetwork/rxl.js
+All code examples will be listed within the examples.js file (https://github.com/AstralNetwork/rxl.js/blob/main/examples.js). Everything is pretty simple and easy to save you the hassle of thinking out of your mind while implementing it. 
 
 ## Current functions [1.1.2]
 
