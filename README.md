@@ -5,6 +5,12 @@
 </p>
 
 
+
+[![size](https://img.shields.io/npm/dm/rxl.js)](https://www.npmjs.com/rxl.js) [![npm](https://img.shields.io/npm/v/rxl.js)](https://www.npmjs.com/rxl.js) 
+[![downloads](https://img.shields.io/bundlephobia/min/rxl.js)](https://www.npmjs.com/rxl.js) [![license](https://img.shields.io/npm/l/rxl.js)](https://www.npmjs.com/rxl.js) [![vuln](https://img.shields.io/snyk/vulnerabilities/npm/rxl.js)](https://www.npmjs.com/rxl.js) 
+
+
+
 **rxl.js** is a simplified API Wrapper for Roblox made for beginners. I had the motivation to make this because of boredom(mostly) and I was hoping it could help out some people with their stuff. I am still maintaining this library and it is still under development since there's some little stuff I need to work on.
 
 ## How to install
