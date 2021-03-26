@@ -1,5 +1,5 @@
 
-## rxl.js
+# rxl.js
 <p align="center">
   <img width="300" height="300" src="https://cdn.discordapp.com/attachments/627765554018517002/824858264780013578/Untitled_3.png">
 </p>
@@ -15,7 +15,7 @@
 
 ## How to install
 
-Just run ``npm i rxl.js`` on your terminal and you're done!
+Just run ```npm i rxl.js``` on your terminal and you're done!
 
 ## Examples
 
