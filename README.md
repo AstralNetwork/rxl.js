@@ -15,6 +15,10 @@ Just run `npm i rxl.js` on your terminal and you're done!
 
 All code examples will be listed within the examples.js file (https://github.com/AstralNetwork/rxl.js/blob/main/examples.js). Everything is pretty simple and easy to save you the hassle of thinking out of your mind while implementing it. 
 
+## Why rxl.js
+
+rxl.js is a beginner friendly Roblox API Wrapper, meaning that everything within is simplified, easy to read and well organized.
+
 ## Current functions [1.1.2]
 
     getUserdataFromId,
