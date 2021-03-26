@@ -1,6 +1,9 @@
 
 ## rxl.js
-![alt text](https://cdn.discordapp.com/attachments/627765554018517002/824858264780013578/Untitled_3.png)
+<p align="center">
+  <img width="460" height="300" src="https://cdn.discordapp.com/attachments/627765554018517002/824858264780013578/Untitled_3.png">
+</p>
+
 
 rxl.js is a simplified API Wrapper for Roblox made for beginners. I had the motivation to make this because of boredom(mostly) and I was hoping it could help out some people with their stuff. I am still maintaining this library and it is still under development since there's some little stuff I need to work on.
 
