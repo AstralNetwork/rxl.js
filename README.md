@@ -1,7 +1,7 @@
 
 ## rxl.js
 <p align="center">
-  <img width="500" height="500" src="https://cdn.discordapp.com/attachments/627765554018517002/824858264780013578/Untitled_3.png">
+  <img width="300" height="300" src="https://cdn.discordapp.com/attachments/627765554018517002/824858264780013578/Untitled_3.png">
 </p>
 
 
