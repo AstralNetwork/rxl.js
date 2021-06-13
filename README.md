@@ -15,7 +15,7 @@
 
 ## How to install
 
-Just run ```npm i rxl.js``` on your terminal and you're done!
+Simply run ```npm i rxl.js``` on your terminal and you're done!
 
 ## Examples
 
